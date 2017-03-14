@@ -2,7 +2,7 @@
 Prediction of helpfulness of reviews on Amazon using Amazon product review data (https://inclass.kaggle.com/c/cse158-258-helpfulness-prediction)
 
 
-** Files **
+**Files**
 
 **train.json.gz** 200,000 reviews to be used for training. The fields in this file are:
 
