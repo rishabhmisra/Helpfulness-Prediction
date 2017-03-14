@@ -2,7 +2,7 @@
 Prediction of helpfulness of reviews on Amazon using Amazon product review data (http://cseweb.ucsd.edu/classes/wi17/cse258-a/)
 
 
-# Files
+** Files **
 
 **train.json.gz** 200,000 reviews to be used for training. The fields in this file are:
 
@@ -32,3 +32,5 @@ the review to be helpful.
 number of votes, from which you should predict how many were helpful.
 
 **test_Helpful.json.gz** Review data for the each user-item pair in *pairs Helpful.txt*
+
+Download data files from: https://drive.google.com/open?id=0BzmUFGrGTLhfSFFxNFBaNmxSV1U
