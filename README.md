@@ -1,5 +1,5 @@
 # Helpfulness-Prediction
-Prediction of helpfulness of reviews on Amazon using Amazon product review data (http://cseweb.ucsd.edu/classes/wi17/cse258-a/)
+Prediction of helpfulness of reviews on Amazon using Amazon product review data (https://inclass.kaggle.com/c/cse158-258-helpfulness-prediction)
 
 
 ** Files **
