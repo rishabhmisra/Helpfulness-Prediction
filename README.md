@@ -33,4 +33,4 @@ number of votes, from which you should predict how many were helpful.
 
 **test_Helpful.json.gz** Review data for the each user-item pair in *pairs Helpful.txt*
 
-Download data files from: https://drive.google.com/open?id=0BzmUFGrGTLhfSFFxNFBaNmxSV1U
+Download data files from: https://drive.google.com/drive/folders/16ucrFVYceSTg52yO-vs-RdMI55Nriske?usp=sharing
